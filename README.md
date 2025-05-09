@@ -40,18 +40,23 @@ A single point inside the tumor region is enough to generate a high-quality segm
 
 Generate masks from one or more 2D points inside the tumor region.
 
+![Tumor Center](https://github.com/janithaDassanayake/dummyimages/blob/main/b1.png?raw=true)
+
 ### ✅ Use Case 2: Bounding Box Prompting
 
 Guide the segmentation using a bounding box—ideal for coarse targeting.
 
+![Bounding Box](https://github.com/janithaDassanayake/dummyimages/blob/main/b2.png?raw=true)
 ### ✅ Use Case 3: Combined Prompts
 
 Combine both a point and a bounding box for more precise results.
 
+![Segmentation Masks](https://github.com/janithaDassanayake/dummyimages/blob/main/b3.png?raw=true)
 ### ✅ Use Case 4: Multi-Region Segmentation
 
 Feed multiple prompts to generate multiple masks per image (e.g., multi-focal tumors).
 
+![Final Output](https://github.com/janithaDassanayake/dummyimages/blob/main/b4.png?raw=true)
 ---
 
 
